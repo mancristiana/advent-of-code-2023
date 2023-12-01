@@ -1,0 +1,8 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "repository": "https://github.com/mancristiana/advent-of-code-2023.git",
+  "author": "Cristiana Man <man.cristiana1@gmail.com>",
+  "packageManager": "yarn@4.0.2",
+  "type": "module"
+}
