@@ -1,7 +1,4 @@
-import { get } from "http";
 import { readInput } from "../utils/readInput.js";
-
-// const get
 
 const splitCountColor = (colorCount) => {
   const [countString, color] = colorCount.trim(" ").split(" ");

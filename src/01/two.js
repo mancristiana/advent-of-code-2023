@@ -1,4 +1,3 @@
-import { parse } from "path";
 import { readInput } from "../utils/readInput.js";
 
 const spelledDigits = [
